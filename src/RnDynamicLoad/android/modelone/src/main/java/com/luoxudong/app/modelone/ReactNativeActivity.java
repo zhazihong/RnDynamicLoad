@@ -14,8 +14,7 @@ public class ReactNativeActivity extends ReactActivity {
         /**
          * 这个组件名称需要跟js入口中的组件名称保持一致
          */
-//        String componentName = "modelone";
-        String componentName = "Demo1";
+        String componentName = "modelone";
         return componentName;
     }
 

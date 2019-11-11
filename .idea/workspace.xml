@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a60c2eac-8c49-4630-a2eb-6ee0e6f1e276" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/src/main/res/drawable-mdpi/src_assets_aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/assets/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/assets/drawable-mdpi/src_assets_aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/assets/index.android.bundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/res/drawable-mdpi/src_assets_aa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/libs/modelone.aar" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/app/libs/modelone.aar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/modelone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/modelone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelthree/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelthree/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelthree/modelthree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modelthree/modelthree.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modeltwo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modeltwo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RnDynamicLoad/android/modeltwo/modeltwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/RnDynamicLoad/android/modeltwo/modeltwo.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,26 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="466">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/jsbundle/modelone/index.android.bundle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="307" column="12" selection-start-line="307" selection-start-column="12" selection-end-line="307" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -81,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="57" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="57" />
+            <state relative-caret-position="546">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -103,26 +92,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+            <state relative-caret-position="416">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>png</find>
       <find>modelone</find>
+      <find>rn/modelone</find>
+      <find>png</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,20 +126,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java" />
+        <option value="$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/RnDynamicLoad.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
@@ -157,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,24 +153,6 @@
             <path>
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
               <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="jsbundle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="jsbundle" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,108 +194,32 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RnDynamicLoad" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="modelone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/RnDynamicLoad/android/app/src/main/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/RnDynamicLoad/android/app/src/main/assets" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\app\src\main\assets" />
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\modelone\src\main\java\com\luoxudong\app\modelone" />
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\modelone\src\main\res" />
       <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\app\src\main\res" />
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\app\src\main\res\drawable-mdpi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\app\src\main\res\assets" />
+      <recent name="E:\MyProject\1\RnDynamicLoad\src\RnDynamicLoad\android\modelone\src\main\res\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -355,18 +247,20 @@
       <workItem from="1572579263624" duration="6360000" />
       <workItem from="1572831540841" duration="55000" />
       <workItem from="1572934494895" duration="7615000" />
-      <workItem from="1573005980146" duration="6246000" />
+      <workItem from="1573005980146" duration="10529000" />
+      <workItem from="1573092796238" duration="20201000" />
+      <workItem from="1573438133747" duration="5478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20276000" />
+    <option name="totallyTimeSpent" value="50238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20600632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21232876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,7 +272,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22559653" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44251627" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,6 +296,29 @@
     <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/jsbundle/modelone/index.android.bundle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6447">
+          <caret line="307" column="12" selection-start-line="307" selection-start-column="12" selection-end-line="307" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/index.android.bundle" />
+    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -421,8 +338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="546">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -438,42 +355,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="466">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/jsbundle/modelone/index.android.bundle">
+    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/app/src/main/assets/index.android.bundle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="307" column="12" selection-start-line="307" selection-start-column="12" selection-end-line="307" selection-end-column="12" />
+        <state relative-caret-position="184">
+          <caret line="148" column="261" selection-start-line="148" selection-start-column="258" selection-end-line="148" selection-end-column="261" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/RnDynamicLoad/android/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="416">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
         </state>
       </provider>
     </entry>
