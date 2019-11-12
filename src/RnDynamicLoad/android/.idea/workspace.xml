@@ -23,20 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cb659df-55c7-4473-a736-b2880ee00ef3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/src_assets_aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelone/src/main/assets/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelone/src/main/assets/drawable-mdpi/src_assets_aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelone/src/main/assets/index.android.bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelone/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelone/src/main/res/drawable-mdpi/src_assets_aa.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/libs/modelone.aar" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/modelone.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,28 +123,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3160">
+            <state relative-caret-position="433">
               <caret line="158" column="45" lean-forward="true" selection-start-line="158" selection-start-column="45" selection-end-line="158" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainApplication.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state relative-caret-position="200">
+              <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/bridge/ReactContextBaseJavaModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,8 +168,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="61" selection-end-column="13" />
+            <state relative-caret-position="601">
+              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1396#1397#0" expanded="true" />
@@ -179,28 +182,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modelone/src/main/assets/index.android.bundle">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b7a994853da730da32286445968d84a/jars/classes.jar!/com/facebook/react/MOReactActivityDelegate.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="344" column="263" selection-start-line="344" selection-start-column="260" selection-end-line="344" selection-end-column="263" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modelone/modelone.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="118" column="110" selection-start-line="118" selection-start-column="110" selection-end-line="118" selection-end-column="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="533">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -209,10 +194,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelone/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelone/modelone.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2360">
+              <caret line="118" column="110" selection-start-line="118" selection-start-column="110" selection-end-line="118" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="119" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#253#1152#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modeltwo/src/main/java/com/facebook/react/MTReactActivityDelegate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+            <state relative-caret-position="860">
+              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
               <folding>
                 <element signature="e#981#982#0" expanded="true" />
                 <element signature="e#1037#1038#0" expanded="true" />
@@ -284,9 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,12 +312,6 @@
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
               <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
@@ -344,14 +352,22 @@
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
               <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="modelone" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
               <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="modelone" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="modelone" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+              <item name="aar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RnDynamicLoad" type="b2602c69:ProjectViewProjectNode" />
@@ -407,6 +423,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,7 +439,7 @@
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.profiler.active" value="true" />
     <property name="device.picker.selection" value="8XV7N15B06001893" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modelone/src/main/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../DD_project_app/android" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.41231593" />
@@ -823,9 +842,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21641791" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
@@ -848,7 +866,7 @@
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32843137" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4978678" visible="true" weight="0.12472885" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4978678" visible="true" weight="0.077006504" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -894,7 +912,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/modelthree/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar!/com/facebook/react/BuildConfig.class" />
     <entry file="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/devsupport/DevSettingsActivity.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -996,13 +1013,6 @@
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1010,19 +1020,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/index.android.bundle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/index.android.bundle" />
     <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e63928a00d34ca3548aad63e826799b4/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1085,20 +1083,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/index.android.bundle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b7a994853da730da32286445968d84a/jars/classes.jar!/com/facebook/react/MOReactActivityDelegate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/index.android.bundle" />
     <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b7a994853da730da32286445968d84a/jars/classes.jar!/com/luoxudong/app/modelone/BuildConfig.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1120,13 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelone/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b7a994853da730da32286445968d84a/res/drawable-mdpi-v4/src_assets_aa.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1140,10 +1118,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelone/src/main/assets/index.android.bundle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6880">
+          <caret line="344" column="263" selection-start-line="344" selection-start-column="260" selection-end-line="344" selection-end-column="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelone/modelone.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2360">
+          <caret line="118" column="110" selection-start-line="118" selection-start-column="110" selection-end-line="118" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modeltwo/src/main/java/com/facebook/react/MTReactActivityDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="51" column="48" lean-forward="true" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        <state relative-caret-position="860">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
           <folding>
             <element signature="e#981#982#0" expanded="true" />
             <element signature="e#1037#1038#0" expanded="true" />
@@ -1153,10 +1161,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/com/facebook/react/bridge/ReactContextBaseJavaModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelone/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b7a994853da730da32286445968d84a/jars/classes.jar!/com/facebook/react/MOReactActivityDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="119" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#253#1152#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/facebook/react/MOReactActivityDelegate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="61" selection-end-column="13" />
+        <state relative-caret-position="601">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1396#1397#0" expanded="true" />
@@ -1167,50 +1221,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelone/src/main/assets/index.android.bundle">
+    <entry file="file://$PROJECT_DIR$/modelone/src/main/java/com/luoxudong/app/modelone/ReactNativeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="344" column="263" selection-start-line="344" selection-start-column="260" selection-end-line="344" selection-end-column="263" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modelone/modelone.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="118" column="110" selection-start-line="118" selection-start-column="110" selection-end-line="118" selection-end-column="110" />
+        <state relative-caret-position="460">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3160">
+        <state relative-caret-position="433">
           <caret line="158" column="45" lean-forward="true" selection-start-line="158" selection-start-column="45" selection-end-line="158" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/luoxudong/app/rndynamicload/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
